@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2025-automatic-error-discovery/commit/556dcf1c4c8a07a9b0c13515d5a356cf6a67132b",
       "git:hexsha": "556dcf1c4c8a07a9b0c13515d5a356cf6a67132b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:53:04.278343+00:00"
     }
   ]
 }
